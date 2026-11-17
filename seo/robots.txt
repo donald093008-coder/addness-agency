@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kikigaki-terakoya.pages.dev/sitemap.xml
